@@ -89,4 +89,11 @@ GraphRAG madde tespitinde belirgin üstün; BasicRAG daha hızlı ve bazı kalit
 
 ## Lisans
 
-Akademik kullanım için yayınlanmıştır. TCK metinleri kamu kaynağıdır; kullanım koşullarınıza uygun şekilde atıf yapın.
+Akademik kullanım için yayınlanmıştır. TCK metinleri kamu kaynağıdır; kullanım koşullarınıza uygun şekilde atıf yapınız. The TCK-QA dataset is openly available on Hugging Face at https://huggingface.co/datasets/hzfokyn/tck-qa-benchmark-v2 
+
+@unpublished{ay2026tckqa,
+  author = {Ay, Betul and Okuyan, Huzeyfe},
+  title  = {TCK-QA: Benchmarking Knowledge Graph-Augmented {LLMs} for Question Answering on the Turkish Penal Code},
+  note   = {Manuscript submitted for publication, Knowledge and Information Systems},
+  year   = {2026}
+}
