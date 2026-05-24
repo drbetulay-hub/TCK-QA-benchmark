@@ -1,0 +1,10 @@
+.env
+.env.local
+*.pyc
+__pycache__/
+.venv/
+venv/
+.DS_Store
+data/llm_cache/
+data/indexing_checkpoint.json
+*.log

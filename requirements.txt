@@ -1,0 +1,35 @@
+# FastAPI - Web Framework
+fastapi[standard]==0.115.6
+uvicorn[standard]==0.34.0
+
+# LangChain - LLM Framework
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-openai==0.3.0
+langchain-anthropic>=0.3.0
+langchain-experimental==0.3.4
+
+# Neo4j - Graph Database
+neo4j==5.27.0
+langchain-neo4j==0.4.0
+
+# PDF Processing
+pypdf==5.1.0
+pymupdf==1.25.2
+
+# OpenAI API
+openai==1.59.3
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# Utilities
+pydantic==2.10.4
+pydantic-settings==2.7.0
+
+# PostgreSQL
+psycopg2-binary==2.9.10
+
+# Evaluation
+ragas>=0.2.0
+datasets>=2.14.0
